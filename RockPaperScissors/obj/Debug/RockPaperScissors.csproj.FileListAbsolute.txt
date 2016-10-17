@@ -1,0 +1,5 @@
+C:\Git\personal\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Git\personal\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Git\personal\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Git\personal\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Git\personal\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
